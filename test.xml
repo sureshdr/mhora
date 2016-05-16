@@ -1,0 +1,150 @@
+ENTRY::
+YOGACAT:: Mahapurusha
+YOGANAME:: Hamsa
+REF:: 300 Imp. Comb (1)
+RULE:: &&(<gr:jup> in <rasi:kendra>)(||(<gr:jup> in own)(<gr:jup> in exlt)(<gr:jup> in mt))
+Spiritual Pious and respected
+
+ENTRY::
+YOGACAT:: Lunar
+YOGANAME:: Sunapha
+REF:: 300 Imp. Comb (2)
+RULE:: graha in <house:2nd> from <gr:moon> except <gr:sun>
+Self-earned property, king, ruler, intelligent, wealthy, good reputation
+
+ENTRY::
+YOGACAT:: Lunar
+YOGANAME:: Anapha
+REF:: 300 Imp. Comb (3)
+RULE:: graha in <house:12th> from <gr:moon> except <gr:sun>
+Well-formed organs, jajestic appearance, good reputation, polite, generous
+
+ENTRY::
+YOGACAT:: Lunar
+YOGANAME:: Dhurdhara
+REF:: 300 Imp. Comb (4)
+RULE:: && graha in <house:2th,12th> from <gr:moon> except <gr:sun>
+Native is bountiful. He will be blessed with much wealth and conveyances
+
+ENTRY::
+YOGACAT:: Lunar
+YOGANAME:: Kemadruma
+REF:: 300 Imp. Comb (5)
+RULE:: !(&& graha in <house:2th,12> from <gr:moon> except <gr:sun>)
+The person will be dirty, sorrowful, doing unrighteous deeds, poor, dependent, a rogue, and a swindler
+
+ENTRY::
+YOGACAT:: Lunar
+YOGANAME:: Chandra-Mangala
+REF:: 300 Imp. Comb (6)
+RULE:: <gr:mars> with <gr:moon>
+Earnings through unscrupulous means, a seller of women, treating mother harshly, and doing mischief to her and other relatives. 
+
+ENTRY::
+YOGACAT:: Lunar
+YOGANAME:: Adhi
+REF:: 300 Imp. Comb (6)
+RULE:: && <gr:ben> in <house:6th,7th,8th> from <gr:moon>
+The person will be polite and trustworthy, will have an enjoyable and happy life, surrounded by luxuries and affluence, will inflict defeats on his enemies, will be healthy and will live long.
+
+ENTRY::
+YOGACAT:: General 
+YOGANAME:: Chatussagara
+REF:: 300 Imp. Comb (7)
+RULE && graha in <house:kendra>
+The person will earn good reputation, be an equal to a ruler, have a long and prosperous life, be blessed with good children and health and his name will travel to the confines of the four oceans.
+
+ENTRY::
+YOGACAT:: General
+YOGANAME:: Vasumathi
+REF:: 300 Imp. Comb (8)
+RULE:: &&(<gr:ben> in <rasi:3rd>)(<gr:ben> in <rasi:6th>)(<gr:ben> in <rasi:10th>)(<gr:ben> in <rasi:11th>)
+The person will not be a dependent but will always command plenty of wealth.
+
+ENTRY::
+YOGACAT:: General
+YOGANAME:: Rajalakshana
+REF:: 300 Imp. Comb (9)
+RULE:: &&(<gr:jup> in <house:kendra>)(<gr:ven> in <house:kendra>)(<gr:mer> in <house:kendra>)(<gr:moon> in <house:kendra>)
+The native will possess an attractive appearance and he will be endowed with all the good qualities of high personages
+
+ENTRY::
+YOGACAT:: General
+YOGANAME:: Sakata
+REF:: 300 Imp. Comb (12)
+RULE:: <gr:moon> in <house:12th,6th,8th> from <gr:jup>
+The native loses fortune and may regain it. He will be ordinary and insignificant. He will suffer from poverty, privation and misery. He will be stubborn and hated by relatives.
+
+ENTRY::
+YOGACAT:: General
+ENTRY::
+YOGACAT:: General
+YOGANAME:: Kahala
+REF:: 300 Imp. Comb (15)
+RULE:: <gr:<lordof:4th>> in <house:kendra> from <gr:<lordof:9th>>
+The native will be stubborn, not well informed, daring, head of a small army and a few villages
+
+ENTRY::
+YOGACAT:: Solar
+YOGANAME:: Vesi
+REF:: 300 Imp. Comb (16)
+RULE:: graha in <house:2nd> from <gr:sun> except <gr:moon>
+THe person will be fortunate, happy, virtuous, famous and aristocratic
+
+ENTRY::
+YOGACAT:: Solar
+YOGANAME:: Vasi
+REF:: 300 Imp. Comb (17)
+RULE:: graha in <house:12th> from <gr:sun> except <gr:moon>
+The subject will be happy, prosperous, liberal and the favourite of the ruling class.
+
+ENTRY::
+YOGACAT:: Solar
+YOGANAME:: Obhayachari
+REF:: 300 Imp. Comb (18)
+RULE:: && graha in <house:2nd,12th> from <gr:sun> except <gr:moon>
+The person will be an eloquent speaker. He will have well-proportioned limbs, will take delight in everything, will be liked by all, wealthy and famous.
+
+ENTRY::
+YOGACAT:: Mahapurusha
+YOGANAME:: Hamsa
+REF:: 300 Imp. Comb (19)
+RULE &&(<gr:jup> in <rasi:kendra>)(||(<gr:jup> in own)(<gr:jup> in exlt)(<gr:jup> in mt))
+His legs will have the markings of a conch, lotus, fish and ankusa. He will possess a handsome body; he will be liked by others; he will be righteous in disposition and pure in mind.
+
+ENTRY::
+YOGACAT:: Mahapurusha
+YOGANAME:: Malavya 
+REF:: 300 Imp. Comb (20)
+RULE:: &&(<gr:ven> in <rasi:kendra>)(||(<gr:ven> in own)(<gr:ven> in exlt)(<gr:ven> in mt))
+The person will have a well-developed physique, will be strong-minded, wealthy, happy with children and wife, will command vehicles, endowed with clean sense-organs and renowned and learned.
+
+ENTRY::
+YOGACAT:: Mahapurusha
+YOGANAME:: Sasa
+REF:: 300 Imp. Comb (21)
+RULE:: &&(<gr:sat> in <rasi:kendra>)(||(<gr:sat> in own)(<gr:sat> in exlt)(<gr:sat> in mt))
+One born in this Yoga will command good servants. His character will be questionable. He will be head of a village or a town or even a King, will covet other's riches and will be wicked in disposition.
+
+ENTRY::
+YOGACAT:: Mahapurusha
+YOGANAME:: Ruchaka 
+REF:: 300 Imp. Comb (22)
+RULE:: &&(<gr:mars> in <rasi:kendra>)(||(<gr:mars> in own)(<gr:mars> in exlt)(<gr:mars> in mt))
+The native will have a strong physique, famous, well-versed in ancient lore, King or an equal, conforming to traditions and customs. He will have a ruddy complexio, attractive body, charitable disposition, wealthy, long-lived and leader of an army.
+
+ENTRY::
+YOGACAT:: Mahapurusha
+YOGANAME:: Bhadra
+REF:: 300 Imp. Comb (23)
+RULE:: &&(<gr:mer> in <rasi:kendra>)(||(<gr:mer> in own)(<gr:mer> in exlt)(<gr:mer> in mt))
+The native will be strong, will have a lion-like face, well-developed chest, well-proportioned limbs, will be taciturn, will help relatives and will live upto a good old age.
+
+ENTRY::
+YOGACAT:: General
+YOGANAME:: Gauri
+REF:: 300 Imp. Comb (28)
+RULE:: &&(<gr:<d9@lordof:9th>> in rasi<10th>)(<gr:<d9@lordof:9th>> in exlt)
+The person belongs to a respectable family, owns serveral lands, charitable, performs religious rites, his sons will be of good character and he will be praised by all
+
+ENTRY::

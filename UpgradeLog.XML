@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mhora">
+</Property><Property Name="Solution File" Value="C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\mhora.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\mhora.suo">
+</Property><Property Name="Date" Value="Thursday, September 17, 2009">
+</Property><Property Name="Time" Value="11:21 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mhora.sln" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\mhora.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mhora.suo" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\mhora.suo">
+</Event><Event ErrorLevel="0" Project="mhora" Source="mhora.csproj" Description="Project file successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\mhora.csproj">
+</Event><Event ErrorLevel="0" Project="mhora" Source="mhora.csproj.user" Description="Project user file successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\mhora.csproj.user">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AboutMhora.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AboutMhora.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AboutSjc.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AboutSjc.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Ashtakavarga.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Ashtakavarga.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AshtakavargaControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AshtakavargaControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Balas.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Balas.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="BalasControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\BalasControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="BasicCalculationsControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\BasicCalculationsControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Basics.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Basics.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="ChooseHoroscopeControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\ChooseHoroscopeControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Crypto.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Crypto.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Dasa3Parts.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Dasa3Parts.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="DasaControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\DasaControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Dasas.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Dasas.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="DivisionalChart.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\DivisionalChart.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="EnumDescConverter.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\EnumDescConverter.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="FindYogas.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\FindYogas.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="GlobalOptions.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\GlobalOptions.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="GrahaStrengthsControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\GrahaStrengthsControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="JhoraBasicsTab.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\JhoraBasicsTab.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="JhoraMainTab.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\JhoraMainTab.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="KeyInfoControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\KeyInfoControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="KutaMatchingControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\KutaMatchingControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Kutas.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Kutas.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Link.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Link.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="LongStringEditor.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\LongStringEditor.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraChild.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraChild.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraContainer.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraContainer.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraControlContainer.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraControlContainer.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraOptions.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraOptions.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraSplash.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraSplash.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraSplitContainer.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraSplitContainer.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="NavamsaControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\NavamsaControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="PanchangaControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\PanchangaControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="PanchangaPrintDocument.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\PanchangaPrintDocument.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Printing.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Printing.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="ProgressDialog.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\ProgressDialog.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="RasiStrengthsControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\RasiStrengthsControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Sarvatobhadra81Control.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Sarvatobhadra81Control.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="SplashScreen.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\SplashScreen.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Strengths.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Strengths.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="sweph.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\sweph.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Transits.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Transits.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="TransitSearch.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\TransitSearch.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="VaraChakra.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\VaraChakra.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="VargaRectificationForm.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\VargaRectificationForm.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="YogaControl.cs" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\YogaControl.cs">
+</Event><Event ErrorLevel="0" Project="mhora" Source="App.ico" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AboutMhora.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AboutMhora.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AboutSjc.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AboutSjc.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="AshtakavargaControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\AshtakavargaControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="BalasControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\BalasControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="BasicCalculationsControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\BasicCalculationsControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="ChooseHoroscopeControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\ChooseHoroscopeControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Dasa3Parts.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Dasa3Parts.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="DasaControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\DasaControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="DivisionalChart.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\DivisionalChart.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="GrahaStrengthsControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\GrahaStrengthsControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="JhoraBasicsTab.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\JhoraBasicsTab.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="JhoraMainTab.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\JhoraMainTab.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="KeyInfoControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\KeyInfoControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="KutaMatchingControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\KutaMatchingControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Localization.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Localization.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="LongStringEditor.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\LongStringEditor.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraChild.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraChild.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraContainer.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraContainer.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraControlContainer.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraControlContainer.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraOptions.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraOptions.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraSplash.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraSplash.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="MhoraSplitContainer.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\MhoraSplitContainer.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="NavamsaControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\NavamsaControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="PanchangaControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\PanchangaControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="PanchangaPrintDocument.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\PanchangaPrintDocument.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Printing.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Printing.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="ProgressDialog.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\ProgressDialog.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="RasiStrengthsControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\RasiStrengthsControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="Sarvatobhadra81Control.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\Sarvatobhadra81Control.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="TransitSearch.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\TransitSearch.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="VaraChakra.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\VaraChakra.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="VargaRectificationForm.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\VargaRectificationForm.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="YogaControl.resx" Description="File successfully backed up as C:\Users\ajitk\Documents\Visual Studio 2008\Projects\mhora-v0.2-src\Backup\YogaControl.resx">
+</Event><Event ErrorLevel="0" Project="mhora" Source="mhora.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mhora" Source="mhora.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mhora.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mhora.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mhora" Source="mhora.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

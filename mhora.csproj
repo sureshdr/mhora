@@ -1,0 +1,424 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C88D761E-10B2-4E19-A330-E17B71AD8449}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>mhora2</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>mhora</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>mhora.MhoraContainer</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <FileAlignment>4096</FileAlignment>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <Name>System.Runtime.Serialization.Formatters.Soap</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutMhora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutSjc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ashtakavarga.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AshtakavargaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Balas.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BalasControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicCalculationsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Basics.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChooseHoroscopeControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crypto.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Dasa3Parts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DasaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dasas.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DivisionalChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EnumDescConverter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FindYogas.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GlobalOptions.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GrahaStrengthsControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JhoraBasicsTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="JhoraMainTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KeyInfoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KutaMatchingControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kutas.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Link.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LongStringEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MhoraChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MhoraContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MhoraControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MhoraControlContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MhoraOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MhoraSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MhoraSplitContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NavamsaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanchangaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanchangaPrintDocument.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RasiStrengthsControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sarvatobhadra81Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Strengths.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="sweph.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Transits.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TransitSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VaraChakra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VargaRectificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YogaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <EmbeddedResource Include="AboutMhora.resx">
+      <DependentUpon>AboutMhora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutSjc.resx">
+      <DependentUpon>AboutSjc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AshtakavargaControl.resx">
+      <DependentUpon>AshtakavargaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BalasControl.resx">
+      <DependentUpon>BalasControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicCalculationsControl.resx">
+      <DependentUpon>BasicCalculationsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseHoroscopeControl.resx">
+      <DependentUpon>ChooseHoroscopeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dasa3Parts.resx">
+      <DependentUpon>Dasa3Parts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DasaControl.resx">
+      <DependentUpon>DasaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DivisionalChart.resx">
+      <DependentUpon>DivisionalChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrahaStrengthsControl.resx">
+      <DependentUpon>GrahaStrengthsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JhoraBasicsTab.resx">
+      <DependentUpon>JhoraBasicsTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JhoraMainTab.resx">
+      <DependentUpon>JhoraMainTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyInfoControl.resx">
+      <DependentUpon>KeyInfoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KutaMatchingControl.resx">
+      <DependentUpon>KutaMatchingControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localization.resx" />
+    <EmbeddedResource Include="LongStringEditor.resx">
+      <DependentUpon>LongStringEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraChild.resx">
+      <DependentUpon>MhoraChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraContainer.resx">
+      <DependentUpon>MhoraContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraControl.resx">
+      <DependentUpon>MhoraControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraControlContainer.resx">
+      <DependentUpon>MhoraControlContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraOptions.resx">
+      <DependentUpon>MhoraOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraSplash.resx">
+      <DependentUpon>MhoraSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MhoraSplitContainer.resx">
+      <DependentUpon>MhoraSplitContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NavamsaControl.resx">
+      <DependentUpon>NavamsaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanchangaControl.resx">
+      <DependentUpon>PanchangaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanchangaPrintDocument.resx">
+      <DependentUpon>PanchangaPrintDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing.resx">
+      <DependentUpon>Printing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressDialog.resx">
+      <DependentUpon>ProgressDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RasiStrengthsControl.resx">
+      <DependentUpon>RasiStrengthsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sarvatobhadra81Control.resx">
+      <DependentUpon>Sarvatobhadra81Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransitSearch.resx">
+      <DependentUpon>TransitSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VaraChakra.resx">
+      <DependentUpon>VaraChakra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VargaRectificationForm.resx">
+      <DependentUpon>VargaRectificationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YogaControl.resx">
+      <DependentUpon>YogaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="App.ico" />
+    <Content Include="mhora.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
